@@ -13,3 +13,7 @@ npm start
 cd react-app
 npm i
 npm start
+
+# Docker
+Install docker from https://docker.com/
+Run command line: sudo docker-compose up -d
