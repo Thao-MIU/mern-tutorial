@@ -27,6 +27,6 @@ npm i
 npm start
 
 # Run React app
-cd react-bootstrap
+cd react-app
 npm i
 npm start
